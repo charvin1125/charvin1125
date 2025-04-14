@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Charvin
+- 🧑‍🎓 BCA Graduate from Veer Narmad South Gujarat University
+- 💻 Web Developer | Python Enthusiast | AI/ML Learner
+- 🔭 Currently working on: DSA + Data Analysis + AI Projects
+- 📫 How to reach me: charvin.email@example.com
 
-<!--
-**charvin1125/charvin1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- 💻 Languages: Python, JavaScript, C++
+- 🌐 Web: HTML, CSS, React, Node.js, Express
+- 🧠 AI/ML: NumPy, Pandas, Matplotlib, scikit-learn
+- 🗄️ Databases: MongoDB, MySQL
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Charvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charvin1125&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
