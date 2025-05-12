@@ -2,7 +2,7 @@
 - 🧑‍🎓 BCA Graduate from Veer Narmad South Gujarat University
 - 💻 Web Developer | Python Enthusiast | AI/ML Learner
 - 🔭 Currently working on: DSA + Data Analysis + AI Projects
-- 📫 How to reach me: charvin.email@example.com
+- 📫 How to reach me: prajapaticharvin@gmail.com
 
 ## 🚀 Skills
 - 💻 Languages: Python, JavaScript, C++
